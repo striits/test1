@@ -1,7 +1,61 @@
-.manstils {
-	color: red;
+
+
+.augsa {
+	text-align: right;
+	margin-bottom: 150px
+
 }
 
-.manstils2 {
-	color: green
+
+.augsa img {
+	height: 25px;
+	width: 25px;
+	padding-left: 5px;
+}
+
+
+.vidus img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+width: 150px;
+padding: 25px 0
+}
+.meklesana {
+	text-align: right;
+}
+
+.meklesana p {
+border-style: inset;
+width: 250px;
+margin-left: auto;
+margin-right: auto;
+}
+.ramis {
+	border: 2px solid #BDBDBD;
+	background-color: #F7F7F7;
+	width: 350px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.epasts {
+	border-style: inset;
+	background-color: #FAFFBA;
+	color: #BDBDBD;
+	width: 200px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.paroli, .ienakt {
+display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+	align-content: center;
+	padding: 5px
+}
+.ienakt {
+
 }
